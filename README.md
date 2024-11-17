@@ -5,8 +5,8 @@ You are most likely searching for this if I give you this link:
   <a class="link" target="_blank" href="https://www.facebook.com/JavierPalmero23">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="10%" alt="Facebook logo by riajulislam"/>
   </a>
-  <a class="link" target="_blank" href="https://github.com/JavierPalmero23">
-    <img src="https://cdn-icons-png.flaticon.com/512/3291/3291667.png" width="10%" alt="GitHub logo by riajulislam"/>
+  <a class="link" target="_blank" href="https://gitlab.com/JavierPalmero23">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968870.png" width="10%" alt="GitLab logo by Freepik"/>
   </a>
   <a class="link" target="_blank" href="https://www.instagram.com/javierpalmero23/">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="10%" alt="Instagram logo by riajulislam"/>
